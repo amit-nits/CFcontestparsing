@@ -6,5 +6,4 @@ This is a python script that parses the sample tests from the contest problem pa
 
 ./parse.py id
 
-Where `512` is the contest number, not the round number! Check the URL of the contest on your browser, that is the number you are supposed to use.
 
